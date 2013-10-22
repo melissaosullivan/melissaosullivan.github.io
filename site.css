@@ -1,0 +1,51 @@
+body{
+	background-color: #2A2a2a;
+}
+
+.main-body {
+	position: absolute;
+	height: 100%;
+	width: 80%;
+	background-color: #CCCCCC;
+	padding-left: 0 0 0 0;
+	z-index: 4;
+	margin-right: 10%;
+	margin-left: 10%;
+	opacity: .8;
+	border-radius: 15%;
+	
+}
+.container {
+	margin: 10px 10px 10px 10px;
+}
+p {
+	padding: 5px 5px 5px 5px;
+	font: 2em "helvetica";
+	text-align: center;
+}
+
+#hello{
+	font-size: 2em;
+	font: "garamond";
+	color: rgb(200,62,87);
+}
+
+#dev {
+	font: 2em "serif";
+	color: rgb(103,184,227);
+}
+
+#projects {
+	font: 2em "serif";
+	color: #228B22;
+}
+
+#linkedin {
+	font: 2em "serif";
+	color: #B23AEE;
+}
+
+
+a {
+	text-decoration: none;
+}
